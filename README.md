@@ -1,4 +1,4 @@
-# Repo for all SpeedrunEthereum Challenges
+# My Solutions for all SpeedrunEthereum Challenges
 
 # Main if you want to learn yourself: https://github.com/scaffold-eth/scaffold-eth-challenges
 
