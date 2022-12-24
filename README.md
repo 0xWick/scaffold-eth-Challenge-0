@@ -1,18 +1,15 @@
-# scaffold-eth-Challenge-0
-Challenge #0  🎟 Simple NFT Example ```Done & Accepted```
+# scaffold-eth-Challenge-1
+Challenge #1 🥩 Decentralized Staking App ```Done & Accepted```
 
-![image](https://user-images.githubusercontent.com/69587947/209427932-f8b69c01-4c4c-4894-b8c9-91811f03974c.png)
+![image](https://user-images.githubusercontent.com/69587947/209436742-45393496-ba9a-47f5-bca3-35e6e89de5b5.png)
 
-![image](https://user-images.githubusercontent.com/69587947/209427947-a69eda32-0118-42ba-b188-18d6c8b6b7f4.png)
+![image](https://user-images.githubusercontent.com/69587947/209436753-a94dc59f-6b5a-4c91-ab76-67d6c660167f.png)
 
+# Live Here: https://0xwickstake.surge.sh/
 
-# Live Here: https://wickden.surge.sh/
+# Contract Address & Code Here: 
+https://goerli.etherscan.io/address/0x5edAcdE8C1f1001bFfF6D1bF37e13f67e87C7E45
 
-# Contract Address & Code Here: https://goerli.etherscan.io/address/0xa2fa6d235e4c765ceed76ca9f7e93b5d68e69914
+![image](https://user-images.githubusercontent.com/69587947/209436831-6ce7cb22-f76b-449a-9462-a96f70600607.png)
 
-![image](https://user-images.githubusercontent.com/69587947/209427941-f869686a-430c-46cd-8974-e5f234159aa5.png)
-
-Also, on OpenSea Testnet: 
-
-![image](https://user-images.githubusercontent.com/69587947/209427976-4bcbf066-7704-41c8-a2f1-be5e0a6f428b.png)
 
