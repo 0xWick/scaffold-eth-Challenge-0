@@ -11,3 +11,8 @@ Challenge #0  🎟 Simple NFT Example ```Done & Accepted```
 # Contract Address & Code Here: https://goerli.etherscan.io/address/0xa2fa6d235e4c765ceed76ca9f7e93b5d68e69914
 
 ![image](https://user-images.githubusercontent.com/69587947/209427941-f869686a-430c-46cd-8974-e5f234159aa5.png)
+
+Also, on OpenSea Testnet: 
+
+![image](https://user-images.githubusercontent.com/69587947/209427976-4bcbf066-7704-41c8-a2f1-be5e0a6f428b.png)
+
